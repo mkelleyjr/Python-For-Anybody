@@ -11,6 +11,10 @@ ERRORS - Google is your friend. Copy and paste error messages directly into Goog
 
 To make python programs you only need Python and a text editor. For my code, I use Vistual Studio Code. 
 
+When writing programs, take your time and think through the problem. Start at the beginning and work through a program. Talk it out
+and even writing it out with diagrams can be very helpful. Knowing the step by step of a problem will make it easier to write the 
+code. 
+
 COMMENTS. Comments let programmers explain what they are doing. Comments are essential to beginners. Use comments often.
 Python comments start with # 
 # This is an example of a python comment.
