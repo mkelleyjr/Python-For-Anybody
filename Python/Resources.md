@@ -16,3 +16,8 @@ https://www.youtube.com/watch?v=_uQrJ0TkZlc
 More Python Books: 
 https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8
 
+Python Harvard CS50:
+https://www.youtube.com/watch?v=hnDU1G9hWqU
+
+
+

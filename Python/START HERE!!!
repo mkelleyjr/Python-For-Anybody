@@ -1,3 +1,4 @@
+Feel free to jump around the files as necessary. 
 
 Python is free software and easily available. Download Python here:
 
@@ -7,7 +8,13 @@ If you don't have access to install Python, run it online here:
 
 https://www.tutorialspoint.com/execute_python_online.php
 
+ERRORS - Google is your friend. Copy and paste error messages directly into Google and be amazed! 
+
 To make python programs you only need Python and a text editor. For my code, I use Vistual Studio Code. 
+
+When writing programs, take your time and think through the problem. Start at the beginning and work through a program. Talk it out
+and even writing it out with diagrams can be very helpful. Knowing the step by step of a problem will make it easier to write the 
+code. 
 
 COMMENTS. Comments let programmers explain what they are doing. Comments are essential to beginners. Use comments often.
 Python comments start with # 
@@ -15,4 +22,8 @@ Python comments start with #
 # 1 + 1 = 2
 # I hope this code works
 
-Are all comments in Python. Get used to using them.
+Comments can also be used on code to block it from running. Use a comment on a line of code to test a program that is having issues.
+If it works fine with the line of code commented out, you know that line is causing the issue. Some code can be commented out if it
+is going to be used in the future or only certain times a program is ran. 
+
+Get used to using comments! 
