@@ -1,0 +1,18 @@
+
+Python is free software and easily available. Download Python here:
+
+https://www.python.org/
+
+If you don't have access to install Python, run it online here: 
+
+https://www.tutorialspoint.com/execute_python_online.php
+
+To make python programs you only need Python and a text editor. For my code, I use Vistual Studio Code. 
+
+COMMENTS. Comments let programmers explain what they are doing. Comments are essential to beginners. Use comments often.
+Python comments start with # 
+# This is an example of a python comment.
+# 1 + 1 = 2
+# I hope this code works
+
+Are all comments in Python. Get used to using them.

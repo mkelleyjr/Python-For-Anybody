@@ -9,3 +9,10 @@ https://www.youtube.com/watch?v=xQj3s3wIYDY
 
 Automate the Boring Stuff With Python:
 https://automatetheboringstuff.com/
+
+Python Tutorial for Beginners (Programming with Mosh):
+https://www.youtube.com/watch?v=_uQrJ0TkZlc
+
+More Python Books: 
+https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8
+
