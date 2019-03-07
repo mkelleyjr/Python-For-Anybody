@@ -7,6 +7,9 @@ https://ehmatthes.github.io/pcc/appendix_a/README.html
 Getting Started with VScode for Python:
 https://www.youtube.com/watch?v=xQj3s3wIYDY
 
+Python: From Zero to Hero:
+https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567?gi=7bb14d73a0df
+
 Automate the Boring Stuff With Python:
 https://automatetheboringstuff.com/
 
