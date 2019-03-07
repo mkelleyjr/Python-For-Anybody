@@ -17,4 +17,8 @@ Python comments start with #
 # 1 + 1 = 2
 # I hope this code works
 
-Are all comments in Python. Get used to using them.
+Comments can also be used on code to block it from running. Use a comment on a line of code to test a program that is having issues.
+If it works fine with the line of code commented out, you know that line is causing the issue. Some code can be commented out if it
+is going to be used in the future or only certain times a program is ran. 
+
+Get used to using comments! 
