@@ -25,5 +25,6 @@ https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0
 Python Harvard CS50:
 https://www.youtube.com/watch?v=hnDU1G9hWqU
 
-
+Python Resource List:
+https://www.fullstackpython.com/best-python-resources.html
 
