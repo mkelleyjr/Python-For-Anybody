@@ -31,3 +31,5 @@ https://www.youtube.com/watch?v=hnDU1G9hWqU
 Python Resource List:
 https://www.fullstackpython.com/best-python-resources.html
 
+Python Programming for the Humanities: 
+http://www.karsdorp.io/python-course/
