@@ -36,3 +36,7 @@ http://www.karsdorp.io/python-course/
 
 CodeCombat (Code by playing a game):
 https://codecombat.com/
+
+Practice Python:
+https://www.practicepython.org/
+
