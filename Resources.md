@@ -40,3 +40,6 @@ https://codecombat.com/
 Practice Python:
 https://www.practicepython.org/
 
+Py CheckiO:
+https://py.checkio.org/
+
