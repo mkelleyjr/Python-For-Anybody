@@ -43,3 +43,8 @@ https://www.practicepython.org/
 Py CheckiO:
 https://py.checkio.org/
 
+How To Think Like a Computer Scientist Interactive Python Editon:
+https://interactivepython.org/courselib/static/thinkcspy/index.html
+
+
+
