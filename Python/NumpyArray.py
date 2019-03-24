@@ -1,6 +1,8 @@
 # Michael L. Kelley Jr.
 # March 20, 2019
-# NumpyArray.py
+# Numpy
+# 
+# Array.py
 
 # Using Numpy to make an Array
 
