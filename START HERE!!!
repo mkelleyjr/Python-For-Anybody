@@ -27,3 +27,5 @@ If it works fine with the line of code commented out, you know that line is caus
 is going to be used in the future or only certain times a program is ran. 
 
 Get used to using comments! 
+
+NEVER ASSUME that you know what a program is supposed to do. 
