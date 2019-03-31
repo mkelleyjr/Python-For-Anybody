@@ -7,6 +7,9 @@ https://ehmatthes.github.io/pcc/appendix_a/README.html
 Python 3.7.2 Docs:
 https://docs.python.org/3/index.html
 
+Python Wiki:
+https://wiki.python.org/moin/BeginnersGuide/Programmers
+
 Python Tutor:
 http://pythontutor.com/
 
