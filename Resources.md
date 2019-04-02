@@ -10,6 +10,9 @@ https://docs.python.org/3/index.html
 Python Wiki:
 https://wiki.python.org/moin/BeginnersGuide/Programmers
 
+Full Stack Python:
+https://www.fullstackpython.com/best-python-resources.html
+
 Python Tutor:
 http://pythontutor.com/
 
