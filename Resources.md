@@ -28,6 +28,9 @@ https://automatetheboringstuff.com/
 Python Tutorial for Beginners (Programming with Mosh):
 https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
+The Hitchhiker's Guide to Python:
+https://docs.python-guide.org/intro/learning/
+
 More Python Books: 
 https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8
 
